@@ -54,6 +54,7 @@ with mujoco.viewer.launch_passive(model, data) as viewer:
 - [urdf2mjcf](https://github.com/kscalelabs/urdf2mjcf): urdf to mujoco converter
 - [mujoco_ros_pkgs](https://github.com/ubi-agni/mujoco_ros_pkgs.git): ROS1 wrapper for mujoco
 
+&nbsp;
 
 ## WEEK TWO
 
@@ -75,8 +76,9 @@ with mujoco.viewer.launch_passive(model, data) as viewer:
     ```
 5. Try to implement an iterative solver for your bot, and compare it with the geometrically derived alternative.
 
+
 ### Resources:
+
 - [Arjun's Glorious LaTeX](week_two/arcnotes-1.pdf)
 - [Interactive example](https://colab.research.google.com/drive/1tBGomuO8bikq8HZdewz6MfyMwaD0IQnb?usp=sharing)
-- [A Mathematical Introduction to
-Robotic Manipulation](week_two/mls94-complete.pdf): After completing the tasks, go through the first three chapters thoroughly.
+- [A Mathematical Introduction to Robotic Manipulation](week_two/mls94-complete.pdf): After completing the tasks, go through the first three chapters thoroughly.
