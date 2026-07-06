@@ -82,3 +82,20 @@ with mujoco.viewer.launch_passive(model, data) as viewer:
 - [Arjun's Glorious LaTeX](week_two/arcnotes-1.pdf)
 - [Interactive example](https://colab.research.google.com/drive/1tBGomuO8bikq8HZdewz6MfyMwaD0IQnb?usp=sharing)
 - [A Mathematical Introduction to Robotic Manipulation](week_two/mls94-complete.pdf): After completing the tasks, go through the first three chapters thoroughly.
+
+&nbsp;
+
+## WEEK THREE & FOUR
+
+Follow the huggingface [deep RL course](https://huggingface.co/learn/deep-rl-course/en/unit0/introduction), completing units 0, 1, 4, 5, 6, 8.
+
+&nbsp;
+
+## WEEK FIVE
+Read the [introduction to RL](week_four/quadruped_rl_concepts_primer.md), then proceed with the tasks detailed in the [workplan](week_four/pupper_workplan.md).
+
+### Resources:
+- [mjlab documentation](https://mujocolab.github.io/mjlab)
+- [Custom-robot integration blueprint (ANYmal)](https://github.com/mujocolab/anymal_c_velocity)
+- [Additional examples (mjlab_playground)](https://github.com/mujocolab/mjlab_playground)
+- [Weights & Biases](https://wandb.ai)
