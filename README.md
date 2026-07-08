@@ -92,7 +92,7 @@ Follow the huggingface [deep RL course](https://huggingface.co/learn/deep-rl-cou
 &nbsp;
 
 ## WEEK FIVE
-Read the [introduction to RL](week_four/quadruped_rl_concepts_primer.md), then proceed with the tasks detailed in the [workplan](week_four/pupper_workplan.md).
+Read the [introduction to RL](week_five/quadruped_rl_concepts_primer.md), then proceed with the tasks detailed in the [workplan](week_five/pupper_workplan.md).
 
 ### Resources:
 - [mjlab documentation](https://mujocolab.github.io/mjlab)
